@@ -1,0 +1,5 @@
+print("Welcome to python")
+print(7+3)
+print(type(6.66))
+print(10%2==0)
+print("AI"+"Chatbot")
